@@ -94,7 +94,7 @@ body {
 .categories {
     height: 100%;
     width: 230px;
-    background-color: #ddd;
+    background-color: white;
     overflow-y: scroll;
 }
 
